@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:scalar="http://scalar.usc.edu/2012/01/scalar-ns#"
+  xmlns:ov="http://open.vocab.org/terms/"
+  xmlns:art="http://simile.mit.edu/2003/10/ontologies/artstor#">
+
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/menlopark">
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Media"/>
+    <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
+    <dcterms:created>2013-12-12T10:45:23-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:content:8425"/>
+    <scalar:version rdf:resource="http://scalar.usc.edu/maker/record/media/menlopark.2"/>
+    <dcterms:hasVersion rdf:resource="http://scalar.usc.edu/maker/record/media/menlopark.2"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/menlopark.2">
+    <ov:versionnumber>2</ov:versionnumber>
+    <dcterms:title>Reconstruction of Edison's Menlo Park Laboratory</dcterms:title>
+    <dcterms:description>Greenfield Village, Henry Ford Museum, Dearborn, Michigan</dcterms:description>
+    <art:url rdf:resource="http://scalar.usc.edu/maker/record/media/menlopark.jpg"/>
+    <scalar:defaultView>plain</scalar:defaultView>
+    <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
+    <dcterms:created>2013-12-12T10:50:03-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:28317"/>
+    <dcterms:isVersionOf rdf:resource="http://scalar.usc.edu/maker/record/media/menlopark"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+    <dcterms:source rdf:resource="http://upload.wikimedia.org/wikipedia/commons/5/59/Menlo_Park_Laboratory.JPG"/>
+    <dcterms:identifier rdf:resource="http://en.wikipedia.org/wiki/File:Menlo_Park_Laboratory.JPG"/>
+    <dcterms:coverage>1876-1887 (Edison's residency at the Menlo Park Laboratory)</dcterms:coverage>
+    <dcterms:subject>Laboratories, Technology, Phonograph Recording</dcterms:subject>
+    <dcterms:contributor>Andrew Balet and Thomas A. Edison</dcterms:contributor>
+  </rdf:Description>
+
+</rdf:RDF>

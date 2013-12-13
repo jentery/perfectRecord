@@ -1,0 +1,70 @@
+{
+  "http://scalar.usc.edu/maker/record/media/clarkpatent" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http:\/\/scalar.usc.edu\/2012\/01\/scalar-ns#Media", "type" : "uri" }
+    ],
+    "http://xmlns.com/foaf/0.1/homepage" : [
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/users\/17", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2013-11-17T10:14:15-08:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:content:8401", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#version" : [
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/clarkpatent.9", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/hasVersion" : [
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/clarkpatent.9", "type" : "uri" }
+    ]
+  },
+
+  "http://scalar.usc.edu/maker/record/media/clarkpatent.9" : {
+    "http://open.vocab.org/terms/versionnumber" : [
+      { "value" : "9", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/title" : [
+      { "value" : "Clark's 19th-Century Spool of Thread", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "William Clark, US Patent 555498 A, for core or spool for balls of thread", "type" : "literal" }
+    ],
+    "http://simile.mit.edu/2003/10/ontologies/artstor#url" : [
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/clarkpatent.png", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#defaultView" : [
+      { "value" : "plain", "type" : "literal" }
+    ],
+    "http://xmlns.com/foaf/0.1/homepage" : [
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/users\/17", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2013-12-12T09:38:35-08:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:version:28301", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isVersionOf" : [
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/clarkpatent", "type" : "uri" }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http:\/\/scalar.usc.edu\/2012\/01\/scalar-ns#Version", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/source" : [
+      { "value" : "https:\/\/patentimages.storage.googleapis.com\/pages\/US555498-0.png", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/identifier" : [
+      { "value" : "US555498 A", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/coverage" : [
+      { "value" : "Patented 3 March 1896", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "Patents, Technology, Magnetic Recording", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/contributor" : [
+      { "value" : "William J. Clark", "type" : "literal" }
+    ]
+  } 
+}

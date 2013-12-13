@@ -1,0 +1,70 @@
+{
+  "http://scalar.usc.edu/maker/record/media/edisonphonograph" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http:\/\/scalar.usc.edu\/2012\/01\/scalar-ns#Media", "type" : "uri" }
+    ],
+    "http://xmlns.com/foaf/0.1/homepage" : [
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/users\/17", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2013-11-17T10:48:12-08:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:content:8402", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#version" : [
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/edisonphonograph.5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/hasVersion" : [
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/edisonphonograph.5", "type" : "uri" }
+    ]
+  },
+
+  "http://scalar.usc.edu/maker/record/media/edisonphonograph.5" : {
+    "http://open.vocab.org/terms/versionnumber" : [
+      { "value" : "5", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/title" : [
+      { "value" : "Edison's 19th-Century Phonograph", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Thomas A. Edison, US Patent 386974 A, for the phonograph", "type" : "literal" }
+    ],
+    "http://simile.mit.edu/2003/10/ontologies/artstor#url" : [
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/edisonphonograph.png", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#defaultView" : [
+      { "value" : "plain", "type" : "literal" }
+    ],
+    "http://xmlns.com/foaf/0.1/homepage" : [
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/users\/17", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2013-12-12T09:49:39-08:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:version:28303", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isVersionOf" : [
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/edisonphonograph", "type" : "uri" }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http:\/\/scalar.usc.edu\/2012\/01\/scalar-ns#Version", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/source" : [
+      { "value" : "https:\/\/patentimages.storage.googleapis.com\/pages\/US386974-1.png", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/identifier" : [
+      { "value" : "US386974A", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/coverage" : [
+      { "value" : "Patented 31 July 1888", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "Patents, Technology, Phonograph Recording", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/contributor" : [
+      { "value" : "Thomas A. Edison", "type" : "literal" }
+    ]
+  } 
+}

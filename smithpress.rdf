@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:scalar="http://scalar.usc.edu/2012/01/scalar-ns#"
+  xmlns:ov="http://open.vocab.org/terms/"
+  xmlns:art="http://simile.mit.edu/2003/10/ontologies/artstor#">
+
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/smithpress">
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Media"/>
+    <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
+    <dcterms:created>2013-12-12T12:03:19-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:content:8428"/>
+    <scalar:version rdf:resource="http://scalar.usc.edu/maker/record/media/smithpress.2"/>
+    <dcterms:hasVersion rdf:resource="http://scalar.usc.edu/maker/record/media/smithpress.2"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/smithpress.2">
+    <ov:versionnumber>2</ov:versionnumber>
+    <dcterms:title>Smith's 20th-Century Press</dcterms:title>
+    <dcterms:description>Oberlin Smith, US Patent 808694 A, for a press</dcterms:description>
+    <art:url rdf:resource="http://scalar.usc.edu/maker/record/media/smithpress.png"/>
+    <scalar:defaultView>plain</scalar:defaultView>
+    <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
+    <dcterms:created>2013-12-12T12:05:17-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:28339"/>
+    <dcterms:isVersionOf rdf:resource="http://scalar.usc.edu/maker/record/media/smithpress"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+    <dcterms:source rdf:resource="https://patentimages.storage.googleapis.com/pages/US808694-2.png"/>
+    <dcterms:identifier>US808694A</dcterms:identifier>
+    <dcterms:coverage>Patented 2 January 1906</dcterms:coverage>
+    <dcterms:subject>Patents, Technology, Presses</dcterms:subject>
+    <dcterms:contributor>Oberlin Smith</dcterms:contributor>
+  </rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,70 @@
+{
+  "http://scalar.usc.edu/maker/record/media/possibleformsdetail" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http:\/\/scalar.usc.edu\/2012\/01\/scalar-ns#Media", "type" : "uri" }
+    ],
+    "http://xmlns.com/foaf/0.1/homepage" : [
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/users\/17", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2013-12-12T11:26:57-08:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:content:8427", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#version" : [
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/possibleformsdetail.2", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/hasVersion" : [
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/possibleformsdetail.2", "type" : "uri" }
+    ]
+  },
+
+  "http://scalar.usc.edu/maker/record/media/possibleformsdetail.2" : {
+    "http://open.vocab.org/terms/versionnumber" : [
+      { "value" : "2", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/title" : [
+      { "value" : "Excerpt of Some Possible Forms of Phonograph (8 September 1888)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Oberlin Smith, The Electrical World, 116", "type" : "literal" }
+    ],
+    "http://simile.mit.edu/2003/10/ontologies/artstor#url" : [
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/possibleformsdetail.png", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#defaultView" : [
+      { "value" : "plain", "type" : "literal" }
+    ],
+    "http://xmlns.com/foaf/0.1/homepage" : [
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/users\/17", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2013-12-12T11:29:17-08:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:version:28336", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isVersionOf" : [
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/possibleformsdetail", "type" : "uri" }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http:\/\/scalar.usc.edu\/2012\/01\/scalar-ns#Version", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/source" : [
+      { "value" : "http:\/\/oberlinsmith.org\/Library\/Library-PDFs\/The%20Electrical%20World%208%20Sep%201888.pdf", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/identifier" : [
+      { "value" : "The Electrical World, 8 September 1888, page 116", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/coverage" : [
+      { "value" : "8 September 1888", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "Periodicals, Technology, Magnetic Recording", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/contributor" : [
+      { "value" : "Oberlin Smith", "type" : "literal" }
+    ]
+  } 
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:scalar="http://scalar.usc.edu/2012/01/scalar-ns#"
+  xmlns:ov="http://open.vocab.org/terms/"
+  xmlns:art="http://simile.mit.edu/2003/10/ontologies/artstor#">
+
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/clarkthreadspool">
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Media"/>
+    <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
+    <dcterms:created>2013-11-26T14:18:39-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:content:8420"/>
+    <scalar:version rdf:resource="http://scalar.usc.edu/maker/record/media/clarkthreadspool.5"/>
+    <dcterms:hasVersion rdf:resource="http://scalar.usc.edu/maker/record/media/clarkthreadspool.5"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/clarkthreadspool.5">
+    <ov:versionnumber>5</ov:versionnumber>
+    <dcterms:title>Clark's 19th-Century Thread-Spool</dcterms:title>
+    <dcterms:description>William Clark, US Patent 299739 A, for a thread-spool</dcterms:description>
+    <art:url rdf:resource="http://scalar.usc.edu/maker/record/media/clarkthreadspool.png"/>
+    <scalar:defaultView>plain</scalar:defaultView>
+    <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
+    <dcterms:created>2013-12-12T09:44:20-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:28302"/>
+    <dcterms:isVersionOf rdf:resource="http://scalar.usc.edu/maker/record/media/clarkthreadspool"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+    <dcterms:source rdf:resource="https://patentimages.storage.googleapis.com/pages/US299739-0.png"/>
+    <dcterms:identifier>US299739A</dcterms:identifier>
+    <dcterms:coverage>Patented 3 June 1884</dcterms:coverage>
+    <dcterms:subject>Patents, Technology, Magnetic Recording</dcterms:subject>
+    <dcterms:contributor>William J. Clark</dcterms:contributor>
+  </rdf:Description>
+
+</rdf:RDF>

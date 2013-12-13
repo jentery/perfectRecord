@@ -1,0 +1,70 @@
+{
+  "http://scalar.usc.edu/maker/record/media/poulsentelegraphone" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http:\/\/scalar.usc.edu\/2012\/01\/scalar-ns#Media", "type" : "uri" }
+    ],
+    "http://xmlns.com/foaf/0.1/homepage" : [
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/users\/17", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2013-11-17T15:35:24-08:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:content:8403", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#version" : [
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/poulsentelegraphone.3", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/hasVersion" : [
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/poulsentelegraphone.3", "type" : "uri" }
+    ]
+  },
+
+  "http://scalar.usc.edu/maker/record/media/poulsentelegraphone.3" : {
+    "http://open.vocab.org/terms/versionnumber" : [
+      { "value" : "3", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/title" : [
+      { "value" : "Poulsen's 20th-Century Telegraphone", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Valdemar Poulsen, Peder O Pedersen, Carl Schou, US Patent 789336 A, for the telegraphone", "type" : "literal" }
+    ],
+    "http://simile.mit.edu/2003/10/ontologies/artstor#url" : [
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/poulsentelegraphone.png", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#defaultView" : [
+      { "value" : "plain", "type" : "literal" }
+    ],
+    "http://xmlns.com/foaf/0.1/homepage" : [
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/users\/17", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2013-12-12T10:07:54-08:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:version:28307", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isVersionOf" : [
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/poulsentelegraphone", "type" : "uri" }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http:\/\/scalar.usc.edu\/2012\/01\/scalar-ns#Version", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/source" : [
+      { "value" : "http:\/\/patentimages.storage.googleapis.com\/pages\/US789336-5.png", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/identifier" : [
+      { "value" : "US789336A", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/coverage" : [
+      { "value" : "Patented 9 May 1905", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "Patents, Technology, Magnetic Recording", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/contributor" : [
+      { "value" : "Valdemar Poulsen, Peder O Pedersen, Carl Schou", "type" : "literal" }
+    ]
+  } 
+}
