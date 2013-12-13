@@ -13,16 +13,16 @@
       { "value" : "urn:scalar:content:8404", "type" : "uri" }
     ],
     "http://scalar.usc.edu/2012/01/scalar-ns#version" : [
-      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/harddisk.4", "type" : "uri" }
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/harddisk.5", "type" : "uri" }
     ],
     "http://purl.org/dc/terms/hasVersion" : [
-      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/harddisk.4", "type" : "uri" }
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/harddisk.5", "type" : "uri" }
     ]
   },
 
-  "http://scalar.usc.edu/maker/record/media/harddisk.4" : {
+  "http://scalar.usc.edu/maker/record/media/harddisk.5" : {
     "http://open.vocab.org/terms/versionnumber" : [
-      { "value" : "4", "type" : "literal" }
+      { "value" : "5", "type" : "literal" }
     ],
     "http://purl.org/dc/terms/title" : [
       { "value" : "Hard Disk Drive with Disks and Motor Hub Removed", "type" : "literal" }
@@ -40,10 +40,10 @@
       { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/users\/17", "type" : "uri" }
     ],
     "http://purl.org/dc/terms/created" : [
-      { "value" : "2013-12-12T10:04:28-08:00", "type" : "literal" }
+      { "value" : "2013-12-13T13:45:30-08:00", "type" : "literal" }
     ],
     "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
-      { "value" : "urn:scalar:version:28306", "type" : "uri" }
+      { "value" : "urn:scalar:version:28354", "type" : "uri" }
     ],
     "http://purl.org/dc/terms/isVersionOf" : [
       { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/harddisk", "type" : "uri" }
@@ -51,11 +51,17 @@
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
       { "value" : "http:\/\/scalar.usc.edu\/2012\/01\/scalar-ns#Version", "type" : "uri" }
     ],
+    "http://purl.org/dc/terms/publisher" : [
+      { "value" : "Wikipedia", "type" : "literal" }
+    ],
     "http://purl.org/dc/terms/source" : [
-      { "value" : "http:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/1e\/Hard_disk_dismantled.jpg", "type" : "uri" }
+      { "value" : "Wikipedia, http:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/1e\/Hard_disk_dismantled.jpg", "type" : "literal" }
     ],
     "http://purl.org/dc/terms/identifier" : [
       { "value" : "http:\/\/en.wikipedia.org\/wiki\/File:Hard_disk_dismantled.jpg", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/date" : [
+      { "value" : "2004-07-28", "type" : "literal" }
     ],
     "http://purl.org/dc/terms/coverage" : [
       { "value" : "28 July 2004", "type" : "literal" }
@@ -64,7 +70,7 @@
       { "value" : "Technology, Magnetic Recording", "type" : "literal" }
     ],
     "http://purl.org/dc/terms/contributor" : [
-      { "value" : "http:\/\/commons.wikimedia.org\/wiki\/User:Ed_g2s", "type" : "uri" }
+      { "value" : "Ed g2s, http:\/\/commons.wikimedia.org\/wiki\/User:Ed_g2s", "type" : "literal" }
     ]
   } 
 }

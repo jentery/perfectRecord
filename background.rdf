@@ -11,23 +11,25 @@
     <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
     <dcterms:created>2013-11-26T13:21:42-08:00</dcterms:created>
     <scalar:urn rdf:resource="urn:scalar:content:8413"/>
-    <scalar:version rdf:resource="http://scalar.usc.edu/maker/record/media/background.6"/>
-    <dcterms:hasVersion rdf:resource="http://scalar.usc.edu/maker/record/media/background.6"/>
+    <scalar:version rdf:resource="http://scalar.usc.edu/maker/record/media/background.7"/>
+    <dcterms:hasVersion rdf:resource="http://scalar.usc.edu/maker/record/media/background.7"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/background.6">
-    <ov:versionnumber>6</ov:versionnumber>
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/background.7">
+    <ov:versionnumber>7</ov:versionnumber>
     <dcterms:title>Background Image</dcterms:title>
     <dcterms:description>Background Image for Making the Perfect Record, American Literature 85.4 (December 2013), by Jentery Sayers</dcterms:description>
     <art:url rdf:resource="http://scalar.usc.edu/maker/record/media/background.png"/>
     <scalar:defaultView>plain</scalar:defaultView>
     <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
-    <dcterms:created>2013-12-12T09:33:46-08:00</dcterms:created>
-    <scalar:urn rdf:resource="urn:scalar:version:28298"/>
+    <dcterms:created>2013-12-13T13:34:42-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:28350"/>
     <dcterms:isVersionOf rdf:resource="http://scalar.usc.edu/maker/record/media/background"/>
     <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
-    <dcterms:source rdf:resource="https://patentimages.storage.googleapis.com/pages/US822222-0.png"/>
+    <dcterms:publisher>United States Patent Office</dcterms:publisher>
+    <dcterms:source>US Patent Office, care of Google Patents, https://patentimages.storage.googleapis.com/pages/US822222-0.png</dcterms:source>
     <dcterms:identifier>US822222A</dcterms:identifier>
+    <dcterms:date>1906-05-29</dcterms:date>
     <dcterms:coverage>Patent from 29 May 1906</dcterms:coverage>
     <dcterms:subject>Patent, Technology, Magnetic Recording</dcterms:subject>
     <dcterms:contributor>Jentery Sayers and Valdemar Poulsen</dcterms:contributor>

@@ -11,26 +11,28 @@
     <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
     <dcterms:created>2013-11-17T15:44:11-08:00</dcterms:created>
     <scalar:urn rdf:resource="urn:scalar:content:8404"/>
-    <scalar:version rdf:resource="http://scalar.usc.edu/maker/record/media/harddisk.4"/>
-    <dcterms:hasVersion rdf:resource="http://scalar.usc.edu/maker/record/media/harddisk.4"/>
+    <scalar:version rdf:resource="http://scalar.usc.edu/maker/record/media/harddisk.5"/>
+    <dcterms:hasVersion rdf:resource="http://scalar.usc.edu/maker/record/media/harddisk.5"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/harddisk.4">
-    <ov:versionnumber>4</ov:versionnumber>
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/harddisk.5">
+    <ov:versionnumber>5</ov:versionnumber>
     <dcterms:title>Hard Disk Drive with Disks and Motor Hub Removed</dcterms:title>
     <dcterms:description>Dismantled Hard Disk Drive, from the 2000s</dcterms:description>
     <art:url rdf:resource="http://scalar.usc.edu/maker/record/media/harddisk.jpg"/>
     <scalar:defaultView>plain</scalar:defaultView>
     <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
-    <dcterms:created>2013-12-12T10:04:28-08:00</dcterms:created>
-    <scalar:urn rdf:resource="urn:scalar:version:28306"/>
+    <dcterms:created>2013-12-13T13:45:30-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:28354"/>
     <dcterms:isVersionOf rdf:resource="http://scalar.usc.edu/maker/record/media/harddisk"/>
     <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
-    <dcterms:source rdf:resource="http://upload.wikimedia.org/wikipedia/commons/1/1e/Hard_disk_dismantled.jpg"/>
+    <dcterms:publisher>Wikipedia</dcterms:publisher>
+    <dcterms:source>Wikipedia, http://upload.wikimedia.org/wikipedia/commons/1/1e/Hard_disk_dismantled.jpg</dcterms:source>
     <dcterms:identifier rdf:resource="http://en.wikipedia.org/wiki/File:Hard_disk_dismantled.jpg"/>
+    <dcterms:date>2004-07-28</dcterms:date>
     <dcterms:coverage>28 July 2004</dcterms:coverage>
     <dcterms:subject>Technology, Magnetic Recording</dcterms:subject>
-    <dcterms:contributor rdf:resource="http://commons.wikimedia.org/wiki/User:Ed_g2s"/>
+    <dcterms:contributor>Ed g2s, http://commons.wikimedia.org/wiki/User:Ed_g2s</dcterms:contributor>
   </rdf:Description>
 
 </rdf:RDF>

@@ -11,23 +11,25 @@
     <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
     <dcterms:created>2013-11-16T23:17:22-08:00</dcterms:created>
     <scalar:urn rdf:resource="urn:scalar:content:8389"/>
-    <scalar:version rdf:resource="http://scalar.usc.edu/maker/record/media/possibleforms.2"/>
-    <dcterms:hasVersion rdf:resource="http://scalar.usc.edu/maker/record/media/possibleforms.2"/>
+    <scalar:version rdf:resource="http://scalar.usc.edu/maker/record/media/possibleforms.4"/>
+    <dcterms:hasVersion rdf:resource="http://scalar.usc.edu/maker/record/media/possibleforms.4"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/possibleforms.2">
-    <ov:versionnumber>2</ov:versionnumber>
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/possibleforms.4">
+    <ov:versionnumber>4</ov:versionnumber>
     <dcterms:title>Some Possible Forms of Phonograph (8 September 1888)</dcterms:title>
     <dcterms:description>Oberlin Smith, The Electrical World, 116-17</dcterms:description>
     <art:url rdf:resource="http://scalar.usc.edu/maker/record/media/possibleforms.png"/>
     <scalar:defaultView>plain</scalar:defaultView>
     <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
-    <dcterms:created>2013-12-12T10:03:26-08:00</dcterms:created>
-    <scalar:urn rdf:resource="urn:scalar:version:28305"/>
+    <dcterms:created>2013-12-13T13:50:23-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:28357"/>
     <dcterms:isVersionOf rdf:resource="http://scalar.usc.edu/maker/record/media/possibleforms"/>
     <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
-    <dcterms:source rdf:resource="http://oberlinsmith.org/Library/Library-PDFs/The%20Electrical%20World%208%20Sep%201888.pdf"/>
+    <dcterms:publisher>The W.J. Johnston Company, 253 Broadway, New York</dcterms:publisher>
+    <dcterms:source>The Electrical World, care of http://oberlinsmith.org/Library/Library-PDFs/The%20Electrical%20World%208%20Sep%201888.pdf</dcterms:source>
     <dcterms:identifier>The Electrical World, 8 September 1888, pages 116-17</dcterms:identifier>
+    <dcterms:date>1888-09-08</dcterms:date>
     <dcterms:coverage>8 September 1888</dcterms:coverage>
     <dcterms:subject>Periodicals, Technology, Magnetic Recording</dcterms:subject>
     <dcterms:contributor>Oberlin Smith</dcterms:contributor>

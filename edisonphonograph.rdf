@@ -11,23 +11,25 @@
     <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
     <dcterms:created>2013-11-17T10:48:12-08:00</dcterms:created>
     <scalar:urn rdf:resource="urn:scalar:content:8402"/>
-    <scalar:version rdf:resource="http://scalar.usc.edu/maker/record/media/edisonphonograph.5"/>
-    <dcterms:hasVersion rdf:resource="http://scalar.usc.edu/maker/record/media/edisonphonograph.5"/>
+    <scalar:version rdf:resource="http://scalar.usc.edu/maker/record/media/edisonphonograph.6"/>
+    <dcterms:hasVersion rdf:resource="http://scalar.usc.edu/maker/record/media/edisonphonograph.6"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/edisonphonograph.5">
-    <ov:versionnumber>5</ov:versionnumber>
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/edisonphonograph.6">
+    <ov:versionnumber>6</ov:versionnumber>
     <dcterms:title>Edison's 19th-Century Phonograph</dcterms:title>
     <dcterms:description>Thomas A. Edison, US Patent 386974 A, for the phonograph</dcterms:description>
     <art:url rdf:resource="http://scalar.usc.edu/maker/record/media/edisonphonograph.png"/>
     <scalar:defaultView>plain</scalar:defaultView>
     <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
-    <dcterms:created>2013-12-12T09:49:39-08:00</dcterms:created>
-    <scalar:urn rdf:resource="urn:scalar:version:28303"/>
+    <dcterms:created>2013-12-13T13:43:00-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:28353"/>
     <dcterms:isVersionOf rdf:resource="http://scalar.usc.edu/maker/record/media/edisonphonograph"/>
     <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
-    <dcterms:source rdf:resource="https://patentimages.storage.googleapis.com/pages/US386974-1.png"/>
+    <dcterms:publisher>United States Patent Office</dcterms:publisher>
+    <dcterms:source>US Patent Office, care of Google Patents, https://patentimages.storage.googleapis.com/pages/US386974-1.png</dcterms:source>
     <dcterms:identifier>US386974A</dcterms:identifier>
+    <dcterms:date>1888-07-31</dcterms:date>
     <dcterms:coverage>Patented 31 July 1888</dcterms:coverage>
     <dcterms:subject>Patents, Technology, Phonograph Recording</dcterms:subject>
     <dcterms:contributor>Thomas A. Edison</dcterms:contributor>

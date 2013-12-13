@@ -1,5 +1,5 @@
 {
-  "http://scalar.usc.edu/maker/record/media/menlopark" : {
+  "http://scalar.usc.edu/maker/record/media/poulsenwire" : {
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
       { "value" : "http:\/\/scalar.usc.edu\/2012\/01\/scalar-ns#Media", "type" : "uri" }
     ],
@@ -7,31 +7,31 @@
       { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/users\/17", "type" : "uri" }
     ],
     "http://purl.org/dc/terms/created" : [
-      { "value" : "2013-12-12T10:45:23-08:00", "type" : "literal" }
+      { "value" : "2013-12-13T14:20:03-08:00", "type" : "literal" }
     ],
     "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
-      { "value" : "urn:scalar:content:8425", "type" : "uri" }
+      { "value" : "urn:scalar:content:8431", "type" : "uri" }
     ],
     "http://scalar.usc.edu/2012/01/scalar-ns#version" : [
-      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/menlopark.3", "type" : "uri" }
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/poulsenwire.3", "type" : "uri" }
     ],
     "http://purl.org/dc/terms/hasVersion" : [
-      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/menlopark.3", "type" : "uri" }
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/poulsenwire.3", "type" : "uri" }
     ]
   },
 
-  "http://scalar.usc.edu/maker/record/media/menlopark.3" : {
+  "http://scalar.usc.edu/maker/record/media/poulsenwire.3" : {
     "http://open.vocab.org/terms/versionnumber" : [
       { "value" : "3", "type" : "literal" }
     ],
     "http://purl.org/dc/terms/title" : [
-      { "value" : "Reconstruction of Edison's Menlo Park Laboratory", "type" : "literal" }
+      { "value" : "Poulsen and Pedersen's 20th-Century Recording Magnet and Wire", "type" : "literal" }
     ],
     "http://purl.org/dc/terms/description" : [
-      { "value" : "Greenfield Village, Henry Ford Museum, Dearborn, Michigan", "type" : "literal" }
+      { "value" : "Valdemar Poulsen and Peder Olof Pedersen, US Patent 873083 A, for the telegraphone", "type" : "literal" }
     ],
     "http://simile.mit.edu/2003/10/ontologies/artstor#url" : [
-      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/menlopark.jpg", "type" : "uri" }
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/poulsenwire.png", "type" : "uri" }
     ],
     "http://scalar.usc.edu/2012/01/scalar-ns#defaultView" : [
       { "value" : "plain", "type" : "literal" }
@@ -40,37 +40,37 @@
       { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/users\/17", "type" : "uri" }
     ],
     "http://purl.org/dc/terms/created" : [
-      { "value" : "2013-12-13T13:47:37-08:00", "type" : "literal" }
+      { "value" : "2013-12-13T14:22:50-08:00", "type" : "literal" }
     ],
     "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
-      { "value" : "urn:scalar:version:28355", "type" : "uri" }
+      { "value" : "urn:scalar:version:28366", "type" : "uri" }
     ],
     "http://purl.org/dc/terms/isVersionOf" : [
-      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/menlopark", "type" : "uri" }
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/poulsenwire", "type" : "uri" }
     ],
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
       { "value" : "http:\/\/scalar.usc.edu\/2012\/01\/scalar-ns#Version", "type" : "uri" }
     ],
     "http://purl.org/dc/terms/publisher" : [
-      { "value" : "Wikipedia", "type" : "literal" }
+      { "value" : "United States Patent Office", "type" : "literal" }
     ],
     "http://purl.org/dc/terms/source" : [
-      { "value" : "http:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/59\/Menlo_Park_Laboratory.JPG", "type" : "uri" }
+      { "value" : "US Patent Office, care of Google Patents, https:\/\/patentimages.storage.googleapis.com\/pages\/US873083-0.png", "type" : "literal" }
     ],
     "http://purl.org/dc/terms/identifier" : [
-      { "value" : "http:\/\/en.wikipedia.org\/wiki\/File:Menlo_Park_Laboratory.JPG", "type" : "uri" }
+      { "value" : "US873083A", "type" : "literal" }
     ],
     "http://purl.org/dc/terms/date" : [
-      { "value" : "2006-07-02 (Date of Image)", "type" : "literal" }
+      { "value" : "1907-05-02", "type" : "literal" }
     ],
     "http://purl.org/dc/terms/coverage" : [
-      { "value" : "1876-1887 (Edison's residency at the Menlo Park Laboratory)", "type" : "literal" }
+      { "value" : "Patented on May 2, 1907", "type" : "literal" }
     ],
     "http://purl.org/dc/terms/subject" : [
-      { "value" : "Laboratories, Technology, Phonograph Recording", "type" : "literal" }
+      { "value" : "Patents, Technology, Magnetic Recording", "type" : "literal" }
     ],
     "http://purl.org/dc/terms/contributor" : [
-      { "value" : "Andrew Balet and Thomas A. Edison", "type" : "literal" }
+      { "value" : "Valdemar Poulsen, Peder Olof Pedersen, and the American Telegraphone Company", "type" : "literal" }
     ]
   } 
 }

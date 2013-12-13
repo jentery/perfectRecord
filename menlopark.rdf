@@ -11,23 +11,25 @@
     <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
     <dcterms:created>2013-12-12T10:45:23-08:00</dcterms:created>
     <scalar:urn rdf:resource="urn:scalar:content:8425"/>
-    <scalar:version rdf:resource="http://scalar.usc.edu/maker/record/media/menlopark.2"/>
-    <dcterms:hasVersion rdf:resource="http://scalar.usc.edu/maker/record/media/menlopark.2"/>
+    <scalar:version rdf:resource="http://scalar.usc.edu/maker/record/media/menlopark.3"/>
+    <dcterms:hasVersion rdf:resource="http://scalar.usc.edu/maker/record/media/menlopark.3"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/menlopark.2">
-    <ov:versionnumber>2</ov:versionnumber>
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/menlopark.3">
+    <ov:versionnumber>3</ov:versionnumber>
     <dcterms:title>Reconstruction of Edison's Menlo Park Laboratory</dcterms:title>
     <dcterms:description>Greenfield Village, Henry Ford Museum, Dearborn, Michigan</dcterms:description>
     <art:url rdf:resource="http://scalar.usc.edu/maker/record/media/menlopark.jpg"/>
     <scalar:defaultView>plain</scalar:defaultView>
     <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
-    <dcterms:created>2013-12-12T10:50:03-08:00</dcterms:created>
-    <scalar:urn rdf:resource="urn:scalar:version:28317"/>
+    <dcterms:created>2013-12-13T13:47:37-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:28355"/>
     <dcterms:isVersionOf rdf:resource="http://scalar.usc.edu/maker/record/media/menlopark"/>
     <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+    <dcterms:publisher>Wikipedia</dcterms:publisher>
     <dcterms:source rdf:resource="http://upload.wikimedia.org/wikipedia/commons/5/59/Menlo_Park_Laboratory.JPG"/>
     <dcterms:identifier rdf:resource="http://en.wikipedia.org/wiki/File:Menlo_Park_Laboratory.JPG"/>
+    <dcterms:date>2006-07-02 (Date of Image)</dcterms:date>
     <dcterms:coverage>1876-1887 (Edison's residency at the Menlo Park Laboratory)</dcterms:coverage>
     <dcterms:subject>Laboratories, Technology, Phonograph Recording</dcterms:subject>
     <dcterms:contributor>Andrew Balet and Thomas A. Edison</dcterms:contributor>

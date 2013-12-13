@@ -11,23 +11,25 @@
     <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
     <dcterms:created>2013-12-12T12:03:19-08:00</dcterms:created>
     <scalar:urn rdf:resource="urn:scalar:content:8428"/>
-    <scalar:version rdf:resource="http://scalar.usc.edu/maker/record/media/smithpress.2"/>
-    <dcterms:hasVersion rdf:resource="http://scalar.usc.edu/maker/record/media/smithpress.2"/>
+    <scalar:version rdf:resource="http://scalar.usc.edu/maker/record/media/smithpress.3"/>
+    <dcterms:hasVersion rdf:resource="http://scalar.usc.edu/maker/record/media/smithpress.3"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/smithpress.2">
-    <ov:versionnumber>2</ov:versionnumber>
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/smithpress.3">
+    <ov:versionnumber>3</ov:versionnumber>
     <dcterms:title>Smith's 20th-Century Press</dcterms:title>
     <dcterms:description>Oberlin Smith, US Patent 808694 A, for a press</dcterms:description>
     <art:url rdf:resource="http://scalar.usc.edu/maker/record/media/smithpress.png"/>
     <scalar:defaultView>plain</scalar:defaultView>
     <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
-    <dcterms:created>2013-12-12T12:05:17-08:00</dcterms:created>
-    <scalar:urn rdf:resource="urn:scalar:version:28339"/>
+    <dcterms:created>2013-12-13T13:56:49-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:28360"/>
     <dcterms:isVersionOf rdf:resource="http://scalar.usc.edu/maker/record/media/smithpress"/>
     <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
-    <dcterms:source rdf:resource="https://patentimages.storage.googleapis.com/pages/US808694-2.png"/>
+    <dcterms:publisher>United States Patent Office</dcterms:publisher>
+    <dcterms:source>US Patent Office, care of Google Patents, https://patentimages.storage.googleapis.com/pages/US808694-2.png</dcterms:source>
     <dcterms:identifier>US808694A</dcterms:identifier>
+    <dcterms:date>1906-01-02</dcterms:date>
     <dcterms:coverage>Patented 2 January 1906</dcterms:coverage>
     <dcterms:subject>Patents, Technology, Presses</dcterms:subject>
     <dcterms:contributor>Oberlin Smith</dcterms:contributor>

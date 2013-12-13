@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:scalar="http://scalar.usc.edu/2012/01/scalar-ns#"
+  xmlns:ov="http://open.vocab.org/terms/"
+  xmlns:art="http://simile.mit.edu/2003/10/ontologies/artstor#">
+
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/poulsenwire">
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Media"/>
+    <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
+    <dcterms:created>2013-12-13T14:20:03-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:content:8431"/>
+    <scalar:version rdf:resource="http://scalar.usc.edu/maker/record/media/poulsenwire.3"/>
+    <dcterms:hasVersion rdf:resource="http://scalar.usc.edu/maker/record/media/poulsenwire.3"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/poulsenwire.3">
+    <ov:versionnumber>3</ov:versionnumber>
+    <dcterms:title>Poulsen and Pedersen's 20th-Century Recording Magnet and Wire</dcterms:title>
+    <dcterms:description>Valdemar Poulsen and Peder Olof Pedersen, US Patent 873083 A, for the telegraphone</dcterms:description>
+    <art:url rdf:resource="http://scalar.usc.edu/maker/record/media/poulsenwire.png"/>
+    <scalar:defaultView>plain</scalar:defaultView>
+    <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
+    <dcterms:created>2013-12-13T14:22:50-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:28366"/>
+    <dcterms:isVersionOf rdf:resource="http://scalar.usc.edu/maker/record/media/poulsenwire"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+    <dcterms:publisher>United States Patent Office</dcterms:publisher>
+    <dcterms:source>US Patent Office, care of Google Patents, https://patentimages.storage.googleapis.com/pages/US873083-0.png</dcterms:source>
+    <dcterms:identifier>US873083A</dcterms:identifier>
+    <dcterms:date>1907-05-02</dcterms:date>
+    <dcterms:coverage>Patented on May 2, 1907</dcterms:coverage>
+    <dcterms:subject>Patents, Technology, Magnetic Recording</dcterms:subject>
+    <dcterms:contributor>Valdemar Poulsen, Peder Olof Pedersen, and the American Telegraphone Company</dcterms:contributor>
+  </rdf:Description>
+
+</rdf:RDF>

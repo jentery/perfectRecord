@@ -1,5 +1,5 @@
 {
-  "http://scalar.usc.edu/maker/record/media/menlopark" : {
+  "http://scalar.usc.edu/maker/record/media/stearnsspool2" : {
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
       { "value" : "http:\/\/scalar.usc.edu\/2012\/01\/scalar-ns#Media", "type" : "uri" }
     ],
@@ -7,31 +7,31 @@
       { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/users\/17", "type" : "uri" }
     ],
     "http://purl.org/dc/terms/created" : [
-      { "value" : "2013-12-12T10:45:23-08:00", "type" : "literal" }
+      { "value" : "2013-12-13T13:16:43-08:00", "type" : "literal" }
     ],
     "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
-      { "value" : "urn:scalar:content:8425", "type" : "uri" }
+      { "value" : "urn:scalar:content:8430", "type" : "uri" }
     ],
     "http://scalar.usc.edu/2012/01/scalar-ns#version" : [
-      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/menlopark.3", "type" : "uri" }
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/stearnsspool2.5", "type" : "uri" }
     ],
     "http://purl.org/dc/terms/hasVersion" : [
-      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/menlopark.3", "type" : "uri" }
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/stearnsspool2.5", "type" : "uri" }
     ]
   },
 
-  "http://scalar.usc.edu/maker/record/media/menlopark.3" : {
+  "http://scalar.usc.edu/maker/record/media/stearnsspool2.5" : {
     "http://open.vocab.org/terms/versionnumber" : [
-      { "value" : "3", "type" : "literal" }
+      { "value" : "5", "type" : "literal" }
     ],
     "http://purl.org/dc/terms/title" : [
-      { "value" : "Reconstruction of Edison's Menlo Park Laboratory", "type" : "literal" }
+      { "value" : "Second Excerpt of A Spool of Wire Speaks (December 1906)", "type" : "literal" }
     ],
     "http://purl.org/dc/terms/description" : [
-      { "value" : "Greenfield Village, Henry Ford Museum, Dearborn, Michigan", "type" : "literal" }
+      { "value" : "E.F. Stearns, A Spool of Wire Speaks, 412", "type" : "literal" }
     ],
     "http://simile.mit.edu/2003/10/ontologies/artstor#url" : [
-      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/menlopark.jpg", "type" : "uri" }
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/stearnsspool2.png", "type" : "uri" }
     ],
     "http://scalar.usc.edu/2012/01/scalar-ns#defaultView" : [
       { "value" : "plain", "type" : "literal" }
@@ -40,37 +40,37 @@
       { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/users\/17", "type" : "uri" }
     ],
     "http://purl.org/dc/terms/created" : [
-      { "value" : "2013-12-13T13:47:37-08:00", "type" : "literal" }
+      { "value" : "2013-12-13T13:32:03-08:00", "type" : "literal" }
     ],
     "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
-      { "value" : "urn:scalar:version:28355", "type" : "uri" }
+      { "value" : "urn:scalar:version:28349", "type" : "uri" }
     ],
     "http://purl.org/dc/terms/isVersionOf" : [
-      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/menlopark", "type" : "uri" }
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/stearnsspool2", "type" : "uri" }
     ],
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
       { "value" : "http:\/\/scalar.usc.edu\/2012\/01\/scalar-ns#Version", "type" : "uri" }
     ],
     "http://purl.org/dc/terms/publisher" : [
-      { "value" : "Wikipedia", "type" : "literal" }
+      { "value" : "Armour Institute of Technology", "type" : "literal" }
     ],
     "http://purl.org/dc/terms/source" : [
-      { "value" : "http:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/59\/Menlo_Park_Laboratory.JPG", "type" : "uri" }
+      { "value" : "Technical World Magazine, care of the Hathi Trust, http:\/\/babel.hathitrust.org\/cgi\/imgsrv\/pdf?id=njp.32101049998022;orient=0;size=100;seq=426;num=411;attachment=0", "type" : "literal" }
     ],
     "http://purl.org/dc/terms/identifier" : [
-      { "value" : "http:\/\/en.wikipedia.org\/wiki\/File:Menlo_Park_Laboratory.JPG", "type" : "uri" }
+      { "value" : "http:\/\/babel.hathitrust.org\/cgi\/pt?id=njp.32101049998022;view=1up;seq=426", "type" : "uri" }
     ],
     "http://purl.org/dc/terms/date" : [
-      { "value" : "2006-07-02 (Date of Image)", "type" : "literal" }
+      { "value" : "1906-12", "type" : "literal" }
     ],
     "http://purl.org/dc/terms/coverage" : [
-      { "value" : "1876-1887 (Edison's residency at the Menlo Park Laboratory)", "type" : "literal" }
+      { "value" : "December 1906", "type" : "literal" }
     ],
     "http://purl.org/dc/terms/subject" : [
-      { "value" : "Laboratories, Technology, Phonograph Recording", "type" : "literal" }
+      { "value" : "Periodicals, Technology, Magnetic Recording", "type" : "literal" }
     ],
     "http://purl.org/dc/terms/contributor" : [
-      { "value" : "Andrew Balet and Thomas A. Edison", "type" : "literal" }
+      { "value" : "E.F. Stearns", "type" : "literal" }
     ]
   } 
 }
