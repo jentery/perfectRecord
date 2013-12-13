@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:scalar="http://scalar.usc.edu/2012/01/scalar-ns#"
+  xmlns:ov="http://open.vocab.org/terms/"
+  xmlns:art="http://simile.mit.edu/2003/10/ontologies/artstor#">
+
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/franzjoseph1900">
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Media"/>
+    <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
+    <dcterms:created>2013-12-13T15:08:22-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:content:8433"/>
+    <scalar:version rdf:resource="http://scalar.usc.edu/maker/record/media/franzjoseph1900.2"/>
+    <dcterms:hasVersion rdf:resource="http://scalar.usc.edu/maker/record/media/franzjoseph1900.2"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/franzjoseph1900.2">
+    <ov:versionnumber>2</ov:versionnumber>
+    <dcterms:title>1900 Paris World Exposition Recording of Emperor Franz Joseph</dcterms:title>
+    <dcterms:description>Recorded by Valdemar Poulsen using a telegraphone</dcterms:description>
+    <art:url rdf:resource="http://scalar.usc.edu/maker/record/media/franzjoseph1900.mp3"/>
+    <scalar:defaultView>plain</scalar:defaultView>
+    <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
+    <dcterms:created>2013-12-13T15:12:21-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:28375"/>
+    <dcterms:isVersionOf rdf:resource="http://scalar.usc.edu/maker/record/media/franzjoseph1900"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+    <dcterms:publisher>Valdemar Poulsen</dcterms:publisher>
+    <dcterms:source>U. of San Diego, Dept. of History, care of the Wayback Machine, http://web.archive.org/web/20070108004501/http://history.sandiego.edu/gen/recording/qt/franz.mov</dcterms:source>
+    <dcterms:identifier rdf:resource="http://web.archive.org/web/20070108004501/http://history.sandiego.edu/gen/recording/qt/franz.mov"/>
+    <dcterms:date>1900</dcterms:date>
+    <dcterms:coverage>1900, Paris</dcterms:coverage>
+    <dcterms:subject>Audio Recordings, Technology, Magnetic Recording</dcterms:subject>
+  </rdf:Description>
+
+</rdf:RDF>

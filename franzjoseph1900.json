@@ -1,0 +1,73 @@
+{
+  "http://scalar.usc.edu/maker/record/media/franzjoseph1900" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http:\/\/scalar.usc.edu\/2012\/01\/scalar-ns#Media", "type" : "uri" }
+    ],
+    "http://xmlns.com/foaf/0.1/homepage" : [
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/users\/17", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2013-12-13T15:08:22-08:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:content:8433", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#version" : [
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/franzjoseph1900.2", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/hasVersion" : [
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/franzjoseph1900.2", "type" : "uri" }
+    ]
+  },
+
+  "http://scalar.usc.edu/maker/record/media/franzjoseph1900.2" : {
+    "http://open.vocab.org/terms/versionnumber" : [
+      { "value" : "2", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/title" : [
+      { "value" : "1900 Paris World Exposition Recording of Emperor Franz Joseph", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Recorded by Valdemar Poulsen using a telegraphone", "type" : "literal" }
+    ],
+    "http://simile.mit.edu/2003/10/ontologies/artstor#url" : [
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/franzjoseph1900.mp3", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#defaultView" : [
+      { "value" : "plain", "type" : "literal" }
+    ],
+    "http://xmlns.com/foaf/0.1/homepage" : [
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/users\/17", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2013-12-13T15:12:21-08:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:version:28375", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isVersionOf" : [
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/franzjoseph1900", "type" : "uri" }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http:\/\/scalar.usc.edu\/2012\/01\/scalar-ns#Version", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/publisher" : [
+      { "value" : "Valdemar Poulsen", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/source" : [
+      { "value" : "U. of San Diego, Dept. of History, care of the Wayback Machine, http:\/\/web.archive.org\/web\/20070108004501\/http:\/\/history.sandiego.edu\/gen\/recording\/qt\/franz.mov", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/identifier" : [
+      { "value" : "http:\/\/web.archive.org\/web\/20070108004501\/http:\/\/history.sandiego.edu\/gen\/recording\/qt\/franz.mov", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/date" : [
+      { "value" : "1900", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/coverage" : [
+      { "value" : "1900, Paris", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "Audio Recordings, Technology, Magnetic Recording", "type" : "literal" }
+    ]
+  } 
+}
