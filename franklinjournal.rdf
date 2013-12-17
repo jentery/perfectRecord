@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:scalar="http://scalar.usc.edu/2012/01/scalar-ns#"
+  xmlns:ov="http://open.vocab.org/terms/"
+  xmlns:art="http://simile.mit.edu/2003/10/ontologies/artstor#">
+
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/franklinjournal">
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Media"/>
+    <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
+    <dcterms:created>2013-12-13T17:45:30-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:content:8435"/>
+    <scalar:version rdf:resource="http://scalar.usc.edu/maker/record/media/franklinjournal.2"/>
+    <dcterms:hasVersion rdf:resource="http://scalar.usc.edu/maker/record/media/franklinjournal.2"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/franklinjournal.2">
+    <ov:versionnumber>2</ov:versionnumber>
+    <dcterms:title>Volume I of The Franklin Journal (June 1826)</dcterms:title>
+    <dcterms:description>Thomas P. Jones, ed., under the patronage of the Franklin Institute</dcterms:description>
+    <art:url rdf:resource="http://scalar.usc.edu/maker/record/media/franklinjournal.png"/>
+    <scalar:defaultView>plain</scalar:defaultView>
+    <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
+    <dcterms:created>2013-12-13T17:49:53-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:28383"/>
+    <dcterms:isVersionOf rdf:resource="http://scalar.usc.edu/maker/record/media/franklinjournal"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+    <dcterms:publisher>Judah Dobson (Jesper Harding, Printer)</dcterms:publisher>
+    <dcterms:source>The Franklin Journal and American Mechanics' Magazine, Volume I</dcterms:source>
+    <dcterms:identifier rdf:resource="http://books.google.ca/books?id=CBlAAAAAYAAJ&amp;pg=PR1#v=onepage&amp;q&amp;f=true"/>
+    <dcterms:date>1826-06-01</dcterms:date>
+    <dcterms:coverage>June 1826, Philadelphia</dcterms:coverage>
+    <dcterms:subject>Periodicals, Technology, Education</dcterms:subject>
+    <dcterms:contributor>Thomas P. Jones and the Franklin Institute of the State of Pennsylvania</dcterms:contributor>
+  </rdf:Description>
+
+</rdf:RDF>

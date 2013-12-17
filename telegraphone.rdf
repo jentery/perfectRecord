@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:scalar="http://scalar.usc.edu/2012/01/scalar-ns#"
+  xmlns:ov="http://open.vocab.org/terms/"
+  xmlns:art="http://simile.mit.edu/2003/10/ontologies/artstor#">
+
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/telegraphone">
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Media"/>
+    <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
+    <dcterms:created>2013-12-14T10:45:43-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:content:8442"/>
+    <scalar:version rdf:resource="http://scalar.usc.edu/maker/record/media/telegraphone.3"/>
+    <dcterms:hasVersion rdf:resource="http://scalar.usc.edu/maker/record/media/telegraphone.3"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/telegraphone.3">
+    <ov:versionnumber>3</ov:versionnumber>
+    <dcterms:title>Poulsen's Telegraphone at Brede Works</dcterms:title>
+    <dcterms:description>Poulsen's Telegraphone at Brede Works Museum of Industrial Culture</dcterms:description>
+    <art:url rdf:resource="http://scalar.usc.edu/maker/record/media/telegraphone.jpg"/>
+    <scalar:defaultView>plain</scalar:defaultView>
+    <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
+    <dcterms:created>2013-12-14T10:54:09-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:28421"/>
+    <dcterms:isVersionOf rdf:resource="http://scalar.usc.edu/maker/record/media/telegraphone"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+    <dcterms:publisher>Wikipedia</dcterms:publisher>
+    <dcterms:source>Wikipedia, http://upload.wikimedia.org/wikipedia/commons/f/f9/Telegrafon_8154.jpg</dcterms:source>
+    <dcterms:identifier rdf:resource="http://en.wikipedia.org/wiki/File:Telegrafon_8154.jpg"/>
+    <dcterms:date>2009-10-25</dcterms:date>
+    <dcterms:coverage>1898-1910, Denmark</dcterms:coverage>
+    <dcterms:subject>Technology, Magnetic Recording</dcterms:subject>
+    <dcterms:contributor>Bitman, http://hu.wikipedia.org/wiki/Szerkeszt%C5%91:Bitman</dcterms:contributor>
+  </rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:scalar="http://scalar.usc.edu/2012/01/scalar-ns#"
+  xmlns:ov="http://open.vocab.org/terms/"
+  xmlns:art="http://simile.mit.edu/2003/10/ontologies/artstor#">
+
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/edisonparisdisplay">
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Media"/>
+    <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
+    <dcterms:created>2013-12-13T17:16:38-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:content:8434"/>
+    <scalar:version rdf:resource="http://scalar.usc.edu/maker/record/media/edisonparisdisplay.3"/>
+    <dcterms:hasVersion rdf:resource="http://scalar.usc.edu/maker/record/media/edisonparisdisplay.3"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/edisonparisdisplay.3">
+    <ov:versionnumber>3</ov:versionnumber>
+    <dcterms:title>Edison's Display at the Paris Exhibition (1889)</dcterms:title>
+    <dcterms:description>From: The Paris universal exhibition album, 1889 = Exposition universelle de Paris = la Exposicion universal de Paris / published under the patronage of the American Commission</dcterms:description>
+    <art:url rdf:resource="http://scalar.usc.edu/maker/record/media/edisonparisdisplay.jpg"/>
+    <scalar:defaultView>plain</scalar:defaultView>
+    <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
+    <dcterms:created>2013-12-13T17:43:56-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:28381"/>
+    <dcterms:isVersionOf rdf:resource="http://scalar.usc.edu/maker/record/media/edisonparisdisplay"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+    <dcterms:publisher>Beinecke Digital Collections, album digitized by Beinecke Rare Book and Manuscript Library</dcterms:publisher>
+    <dcterms:source>Page CXLI, The Paris Universal Exhibition Album, care of the Beinecke Rare Book and Manuscript Library, http://brbl-dl.library.yale.edu/vufind/Record/3439332?image_id=1086607</dcterms:source>
+    <dcterms:identifier>2006 Folio 103, Beinecke Rare Book and Manuscript Library, Object # 2021536</dcterms:identifier>
+    <dcterms:date>1889</dcterms:date>
+    <dcterms:coverage>1889 Paris</dcterms:coverage>
+    <dcterms:subject>World's Fairs, Technology, Phonographic Recording</dcterms:subject>
+    <dcterms:contributor>Thomas A. Edison and the American Commission</dcterms:contributor>
+  </rdf:Description>
+
+</rdf:RDF>

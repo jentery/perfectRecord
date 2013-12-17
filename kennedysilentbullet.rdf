@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:scalar="http://scalar.usc.edu/2012/01/scalar-ns#"
+  xmlns:ov="http://open.vocab.org/terms/"
+  xmlns:art="http://simile.mit.edu/2003/10/ontologies/artstor#">
+
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/kennedysilentbullet">
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Media"/>
+    <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
+    <dcterms:created>2013-12-14T07:11:22-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:content:8438"/>
+    <scalar:version rdf:resource="http://scalar.usc.edu/maker/record/media/kennedysilentbullet.2"/>
+    <dcterms:hasVersion rdf:resource="http://scalar.usc.edu/maker/record/media/kennedysilentbullet.2"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/kennedysilentbullet.2">
+    <ov:versionnumber>2</ov:versionnumber>
+    <dcterms:title>The Silent Bullet (1910)</dcterms:title>
+    <dcterms:description>Arthur B. Reeve, Harper &amp; Brothers (1910), Cover</dcterms:description>
+    <art:url rdf:resource="http://scalar.usc.edu/maker/record/media/kennedysilentbullet.png"/>
+    <scalar:defaultView>plain</scalar:defaultView>
+    <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
+    <dcterms:created>2013-12-14T07:14:47-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:28395"/>
+    <dcterms:isVersionOf rdf:resource="http://scalar.usc.edu/maker/record/media/kennedysilentbullet"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+    <dcterms:publisher>Harper and Brothers, New York</dcterms:publisher>
+    <dcterms:source>U. of California Libraries, care of the Internet Archive, https://archive.org/stream/silentbulletreev00reeviala#page/n7/mode/2up</dcterms:source>
+    <dcterms:identifier>LAGE-4108561 / http://www.archive.org/details/silentbulletreev00reeviala</dcterms:identifier>
+    <dcterms:date>1910</dcterms:date>
+    <dcterms:coverage>1910</dcterms:coverage>
+    <dcterms:subject>Detective Fiction, Technology, Magnetic Recording</dcterms:subject>
+    <dcterms:contributor>Arthur B. Reeve</dcterms:contributor>
+  </rdf:Description>
+
+</rdf:RDF>

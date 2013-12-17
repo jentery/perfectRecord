@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:scalar="http://scalar.usc.edu/2012/01/scalar-ns#"
+  xmlns:ov="http://open.vocab.org/terms/"
+  xmlns:art="http://simile.mit.edu/2003/10/ontologies/artstor#">
+
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/scifidetective">
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Media"/>
+    <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
+    <dcterms:created>2013-12-14T09:47:23-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:content:8441"/>
+    <scalar:version rdf:resource="http://scalar.usc.edu/maker/record/media/scifidetective.2"/>
+    <dcterms:hasVersion rdf:resource="http://scalar.usc.edu/maker/record/media/scifidetective.2"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/scifidetective.2">
+    <ov:versionnumber>2</ov:versionnumber>
+    <dcterms:title>Scientific Detective Monthly (November 1929)</dcterms:title>
+    <dcterms:description>From Dummy Edition of Scientific Detective Monthly, Hugo Gernsback, ed. (1929)</dcterms:description>
+    <art:url rdf:resource="http://scalar.usc.edu/maker/record/media/scifidetective.png"/>
+    <scalar:defaultView>plain</scalar:defaultView>
+    <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
+    <dcterms:created>2013-12-14T09:53:01-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:28414"/>
+    <dcterms:isVersionOf rdf:resource="http://scalar.usc.edu/maker/record/media/scifidetective"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+    <dcterms:publisher>Hugo Gernsback</dcterms:publisher>
+    <dcterms:source>Scientific Detective Monthly, care of the Internet Archive, https://ia601701.us.archive.org/20/items/Scientific_Detective_Monthly_Dummy_Edition_1929-11.Gernsback/Scientific_Detective_Monthly_Dummy_Edition_1929-11.Gernsback.pdf</dcterms:source>
+    <dcterms:identifier rdf:resource="http://archive.org/details/Scientific_Detective_Monthly_Dummy_Edition_1929-11.Gernsback"/>
+    <dcterms:date>1929-11</dcterms:date>
+    <dcterms:coverage>November 1929</dcterms:coverage>
+    <dcterms:subject>Detective Fiction, Technology, Magnetic Recording</dcterms:subject>
+    <dcterms:contributor>Hugo Gernsback</dcterms:contributor>
+  </rdf:Description>
+
+</rdf:RDF>

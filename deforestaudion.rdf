@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:scalar="http://scalar.usc.edu/2012/01/scalar-ns#"
+  xmlns:ov="http://open.vocab.org/terms/"
+  xmlns:art="http://simile.mit.edu/2003/10/ontologies/artstor#">
+
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/deforestaudion">
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Media"/>
+    <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
+    <dcterms:created>2013-12-14T06:38:41-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:content:8437"/>
+    <scalar:version rdf:resource="http://scalar.usc.edu/maker/record/media/deforestaudion.3"/>
+    <dcterms:hasVersion rdf:resource="http://scalar.usc.edu/maker/record/media/deforestaudion.3"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/deforestaudion.3">
+    <ov:versionnumber>3</ov:versionnumber>
+    <dcterms:title>De Forest's 20th-Century Triode or Audion Amplifier</dcterms:title>
+    <dcterms:description>Lee De Forest, US Patent 841386 A, for wireless telegaphy and the audion amplifier</dcterms:description>
+    <art:url rdf:resource="http://scalar.usc.edu/maker/record/media/deforestaudion.png"/>
+    <scalar:defaultView>plain</scalar:defaultView>
+    <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
+    <dcterms:created>2013-12-14T06:44:04-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:28393"/>
+    <dcterms:isVersionOf rdf:resource="http://scalar.usc.edu/maker/record/media/deforestaudion"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+    <dcterms:publisher>United States Patent Office</dcterms:publisher>
+    <dcterms:source>US Patent Office, care of Google Patents, https://patentimages.storage.googleapis.com/pages/US841386-1.png</dcterms:source>
+    <dcterms:identifier>US841386A</dcterms:identifier>
+    <dcterms:date>1907-01-15</dcterms:date>
+    <dcterms:coverage>Patented January 15, 1907</dcterms:coverage>
+    <dcterms:subject>Patents, Technology, Audio Amplification</dcterms:subject>
+    <dcterms:contributor>Lee De Forest</dcterms:contributor>
+  </rdf:Description>
+
+</rdf:RDF>
