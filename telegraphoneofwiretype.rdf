@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:scalar="http://scalar.usc.edu/2012/01/scalar-ns#"
+  xmlns:ov="http://open.vocab.org/terms/"
+  xmlns:art="http://simile.mit.edu/2003/10/ontologies/artstor#">
+
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/telegraphoneofwiretype">
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Media"/>
+    <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
+    <dcterms:created>2013-12-17T16:25:53-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:content:8449"/>
+    <scalar:version rdf:resource="http://scalar.usc.edu/maker/record/media/telegraphoneofwiretype.2"/>
+    <dcterms:hasVersion rdf:resource="http://scalar.usc.edu/maker/record/media/telegraphoneofwiretype.2"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/telegraphoneofwiretype.2">
+    <ov:versionnumber>2</ov:versionnumber>
+    <dcterms:title>A Telegraphone of the Wire Type (1906)</dcterms:title>
+    <dcterms:description>Image for a Telegraphone care of Technical World Magazine (1906)</dcterms:description>
+    <art:url rdf:resource="http://scalar.usc.edu/maker/record/media/telegraphoneofwiretype.png"/>
+    <scalar:defaultView>plain</scalar:defaultView>
+    <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
+    <dcterms:created>2013-12-17T16:28:57-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:28471"/>
+    <dcterms:isVersionOf rdf:resource="http://scalar.usc.edu/maker/record/media/telegraphoneofwiretype"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+    <dcterms:publisher>American School of Correspondence at Armour Institute of Technology</dcterms:publisher>
+    <dcterms:source>Technical World Magazine, care of Hathi Trust, http://babel.hathitrust.org/cgi/imgsrv/pdf?id=njp.32101049998022;orient=0;size=100;seq=423;num=411;attachment=0</dcterms:source>
+    <dcterms:identifier rdf:resource="http://babel.hathitrust.org/cgi/pt?id=njp.32101049998022;view=1up;seq=423"/>
+    <dcterms:date>1906-12</dcterms:date>
+    <dcterms:coverage>December 1906</dcterms:coverage>
+    <dcterms:subject>Technology, Magnetic Recording</dcterms:subject>
+    <dcterms:contributor>Technical World Magazine</dcterms:contributor>
+  </rdf:Description>
+
+</rdf:RDF>

@@ -11,22 +11,22 @@
     <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
     <dcterms:created>2013-12-13T13:03:51-08:00</dcterms:created>
     <scalar:urn rdf:resource="urn:scalar:content:8429"/>
-    <scalar:version rdf:resource="http://scalar.usc.edu/maker/record/media/stearnsspool.3"/>
-    <dcterms:hasVersion rdf:resource="http://scalar.usc.edu/maker/record/media/stearnsspool.3"/>
+    <scalar:version rdf:resource="http://scalar.usc.edu/maker/record/media/stearnsspool.4"/>
+    <dcterms:hasVersion rdf:resource="http://scalar.usc.edu/maker/record/media/stearnsspool.4"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/stearnsspool.3">
-    <ov:versionnumber>3</ov:versionnumber>
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/stearnsspool.4">
+    <ov:versionnumber>4</ov:versionnumber>
     <dcterms:title>Excerpt of A Spool of Wire Speaks (December 1906)</dcterms:title>
     <dcterms:description>E.F. Stearns, A Spool of Wire Speaks, 409</dcterms:description>
     <art:url rdf:resource="http://scalar.usc.edu/maker/record/media/stearnsspool.png"/>
     <scalar:defaultView>plain</scalar:defaultView>
     <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
-    <dcterms:created>2013-12-13T13:59:05-08:00</dcterms:created>
-    <scalar:urn rdf:resource="urn:scalar:version:28361"/>
+    <dcterms:created>2013-12-17T10:11:03-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:28443"/>
     <dcterms:isVersionOf rdf:resource="http://scalar.usc.edu/maker/record/media/stearnsspool"/>
     <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
-    <dcterms:publisher>Armour Institute of Technology</dcterms:publisher>
+    <dcterms:publisher>American School of Correspondence at Armour Institute of Technology</dcterms:publisher>
     <dcterms:source>Technical World Magazine, care of Hathi Trust, http://babel.hathitrust.org/cgi/imgsrv/pdf?id=njp.32101049998022;orient=0;size=100;seq=423;num=411;attachment=0</dcterms:source>
     <dcterms:identifier rdf:resource="http://babel.hathitrust.org/cgi/pt?id=njp.32101049998022;view=1up;seq=423"/>
     <dcterms:date>1906-12</dcterms:date>

@@ -9,26 +9,26 @@
   <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/stearnsspool2">
     <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Media"/>
     <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
-    <dcterms:created>2013-12-13T13:16:43-08:00</dcterms:created>
-    <scalar:urn rdf:resource="urn:scalar:content:8430"/>
-    <scalar:version rdf:resource="http://scalar.usc.edu/maker/record/media/stearnsspool2.5"/>
-    <dcterms:hasVersion rdf:resource="http://scalar.usc.edu/maker/record/media/stearnsspool2.5"/>
+    <dcterms:created>2013-12-17T10:07:49-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:content:8445"/>
+    <scalar:version rdf:resource="http://scalar.usc.edu/maker/record/media/stearnsspool2.4"/>
+    <dcterms:hasVersion rdf:resource="http://scalar.usc.edu/maker/record/media/stearnsspool2.4"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/stearnsspool2.5">
-    <ov:versionnumber>5</ov:versionnumber>
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/stearnsspool2.4">
+    <ov:versionnumber>4</ov:versionnumber>
     <dcterms:title>Second Excerpt of A Spool of Wire Speaks (December 1906)</dcterms:title>
     <dcterms:description>E.F. Stearns, A Spool of Wire Speaks, 412</dcterms:description>
     <art:url rdf:resource="http://scalar.usc.edu/maker/record/media/stearnsspool2.png"/>
     <scalar:defaultView>plain</scalar:defaultView>
     <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
-    <dcterms:created>2013-12-13T13:32:03-08:00</dcterms:created>
-    <scalar:urn rdf:resource="urn:scalar:version:28349"/>
+    <dcterms:created>2013-12-17T10:12:17-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:28445"/>
     <dcterms:isVersionOf rdf:resource="http://scalar.usc.edu/maker/record/media/stearnsspool2"/>
     <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
-    <dcterms:publisher>Armour Institute of Technology</dcterms:publisher>
-    <dcterms:source>Technical World Magazine, care of the Hathi Trust, http://babel.hathitrust.org/cgi/imgsrv/pdf?id=njp.32101049998022;orient=0;size=100;seq=426;num=411;attachment=0</dcterms:source>
-    <dcterms:identifier rdf:resource="http://babel.hathitrust.org/cgi/pt?id=njp.32101049998022;view=1up;seq=426"/>
+    <dcterms:publisher>American School of Correspondence at Armour Institute of Technology</dcterms:publisher>
+    <dcterms:source>Technical World Magazine, care of Hathi Trust, http://babel.hathitrust.org/cgi/imgsrv/pdf?id=njp.32101049998022;orient=0;size=100;seq=423;num=411;attachment=0</dcterms:source>
+    <dcterms:identifier>The Technical World Magazine, December 1906, 412</dcterms:identifier>
     <dcterms:date>1906-12</dcterms:date>
     <dcterms:coverage>December 1906</dcterms:coverage>
     <dcterms:subject>Periodicals, Technology, Magnetic Recording</dcterms:subject>

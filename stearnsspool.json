@@ -13,16 +13,16 @@
       { "value" : "urn:scalar:content:8429", "type" : "uri" }
     ],
     "http://scalar.usc.edu/2012/01/scalar-ns#version" : [
-      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/stearnsspool.3", "type" : "uri" }
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/stearnsspool.4", "type" : "uri" }
     ],
     "http://purl.org/dc/terms/hasVersion" : [
-      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/stearnsspool.3", "type" : "uri" }
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/stearnsspool.4", "type" : "uri" }
     ]
   },
 
-  "http://scalar.usc.edu/maker/record/media/stearnsspool.3" : {
+  "http://scalar.usc.edu/maker/record/media/stearnsspool.4" : {
     "http://open.vocab.org/terms/versionnumber" : [
-      { "value" : "3", "type" : "literal" }
+      { "value" : "4", "type" : "literal" }
     ],
     "http://purl.org/dc/terms/title" : [
       { "value" : "Excerpt of A Spool of Wire Speaks (December 1906)", "type" : "literal" }
@@ -40,10 +40,10 @@
       { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/users\/17", "type" : "uri" }
     ],
     "http://purl.org/dc/terms/created" : [
-      { "value" : "2013-12-13T13:59:05-08:00", "type" : "literal" }
+      { "value" : "2013-12-17T10:11:03-08:00", "type" : "literal" }
     ],
     "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
-      { "value" : "urn:scalar:version:28361", "type" : "uri" }
+      { "value" : "urn:scalar:version:28443", "type" : "uri" }
     ],
     "http://purl.org/dc/terms/isVersionOf" : [
       { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/media\/stearnsspool", "type" : "uri" }
@@ -52,7 +52,7 @@
       { "value" : "http:\/\/scalar.usc.edu\/2012\/01\/scalar-ns#Version", "type" : "uri" }
     ],
     "http://purl.org/dc/terms/publisher" : [
-      { "value" : "Armour Institute of Technology", "type" : "literal" }
+      { "value" : "American School of Correspondence at Armour Institute of Technology", "type" : "literal" }
     ],
     "http://purl.org/dc/terms/source" : [
       { "value" : "Technical World Magazine, care of Hathi Trust, http:\/\/babel.hathitrust.org\/cgi\/imgsrv\/pdf?id=njp.32101049998022;orient=0;size=100;seq=423;num=411;attachment=0", "type" : "literal" }

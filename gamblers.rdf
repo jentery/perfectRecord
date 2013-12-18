@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:scalar="http://scalar.usc.edu/2012/01/scalar-ns#"
+  xmlns:ov="http://open.vocab.org/terms/"
+  xmlns:art="http://simile.mit.edu/2003/10/ontologies/artstor#">
+
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/gamblers">
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Media"/>
+    <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
+    <dcterms:created>2013-12-17T11:34:47-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:content:8448"/>
+    <scalar:version rdf:resource="http://scalar.usc.edu/maker/record/media/gamblers.2"/>
+    <dcterms:hasVersion rdf:resource="http://scalar.usc.edu/maker/record/media/gamblers.2"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/gamblers.2">
+    <ov:versionnumber>2</ov:versionnumber>
+    <dcterms:title>Excerpt of The Gamblers (1912)</dcterms:title>
+    <dcterms:description>Arthur B. Reeve, &quot;The Gamblers&quot; (1912, 121)</dcterms:description>
+    <art:url rdf:resource="http://scalar.usc.edu/maker/record/media/gamblers.png"/>
+    <scalar:defaultView>plain</scalar:defaultView>
+    <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
+    <dcterms:created>2013-12-17T11:37:29-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:28462"/>
+    <dcterms:isVersionOf rdf:resource="http://scalar.usc.edu/maker/record/media/gamblers"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+    <dcterms:publisher>New York: Harper</dcterms:publisher>
+    <dcterms:source>Constance Dunlap, Woman Detective, care of Hathi Trust, http://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t8z89353s;view=1up;seq=137</dcterms:source>
+    <dcterms:identifier>id=uc2.ark:/13960/t8z89353s or http://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t8z89353s;view=1up;seq=137</dcterms:identifier>
+    <dcterms:date>1912</dcterms:date>
+    <dcterms:coverage>1912-1914</dcterms:coverage>
+    <dcterms:subject>Periodicals, Technology, Magnetic Recording</dcterms:subject>
+    <dcterms:contributor>Arthur B. Reeve</dcterms:contributor>
+  </rdf:Description>
+
+</rdf:RDF>

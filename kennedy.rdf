@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:scalar="http://scalar.usc.edu/2012/01/scalar-ns#"
+  xmlns:ov="http://open.vocab.org/terms/"
+  xmlns:art="http://simile.mit.edu/2003/10/ontologies/artstor#">
+
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/kennedy">
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Media"/>
+    <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
+    <dcterms:created>2013-12-17T10:26:53-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:content:8446"/>
+    <scalar:version rdf:resource="http://scalar.usc.edu/maker/record/media/kennedy.2"/>
+    <dcterms:hasVersion rdf:resource="http://scalar.usc.edu/maker/record/media/kennedy.2"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/kennedy.2">
+    <ov:versionnumber>2</ov:versionnumber>
+    <dcterms:title>Reeve's The Clutching Hand (1936)</dcterms:title>
+    <dcterms:description>Excerpt of Radio Version of Reeve's The Clutching Hand (1936)</dcterms:description>
+    <art:url rdf:resource="http://scalar.usc.edu/maker/record/media/kennedy.mp3"/>
+    <scalar:defaultView>plain</scalar:defaultView>
+    <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
+    <dcterms:created>2013-12-17T10:31:56-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:28449"/>
+    <dcterms:isVersionOf rdf:resource="http://scalar.usc.edu/maker/record/media/kennedy"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+    <dcterms:publisher>George M. Merrick</dcterms:publisher>
+    <dcterms:source rdf:resource="http://www.otrcat.com/otr6/the_clutching_hand360000_01_otrcat.com_.mp3"/>
+    <dcterms:identifier>The Clutching Hand</dcterms:identifier>
+    <dcterms:date>1936</dcterms:date>
+    <dcterms:coverage>1936 (serialized)</dcterms:coverage>
+    <dcterms:subject>Radio Plays, Technology, Detective Fiction</dcterms:subject>
+    <dcterms:contributor>Arthur B. Reeve, William Farnum, Albert Herman, Jack Mulhall, Ruth Mix, Marion Shilling, Yakima Canutt</dcterms:contributor>
+  </rdf:Description>
+
+</rdf:RDF>
