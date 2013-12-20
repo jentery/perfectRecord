@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:scalar="http://scalar.usc.edu/2012/01/scalar-ns#"
+  xmlns:ov="http://open.vocab.org/terms/"
+  xmlns:art="http://simile.mit.edu/2003/10/ontologies/artstor#">
+
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/telegraphonetwo">
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Media"/>
+    <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
+    <dcterms:created>2013-12-19T08:24:44-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:content:8456"/>
+    <scalar:version rdf:resource="http://scalar.usc.edu/maker/record/media/telegraphonetwo.2"/>
+    <dcterms:hasVersion rdf:resource="http://scalar.usc.edu/maker/record/media/telegraphonetwo.2"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/telegraphonetwo.2">
+    <ov:versionnumber>2</ov:versionnumber>
+    <dcterms:title>Two Images of the Telegraphone (1901)</dcterms:title>
+    <dcterms:description>From Popular Science Monthly 59 (May-Oct. 1901)</dcterms:description>
+    <art:url rdf:resource="http://scalar.usc.edu/maker/record/media/telegraphonetwo.png"/>
+    <scalar:defaultView>plain</scalar:defaultView>
+    <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
+    <dcterms:created>2013-12-19T08:27:43-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:28493"/>
+    <dcterms:isVersionOf rdf:resource="http://scalar.usc.edu/maker/record/media/telegraphonetwo"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+    <dcterms:publisher>New York : McClure, Phillips and Co.</dcterms:publisher>
+    <dcterms:source>Popular Science Monthly 59, care of Hathi Trust, http://babel.hathitrust.org/cgi/pt?id=nyp.33433062733302;view=1up;seq=426</dcterms:source>
+    <dcterms:identifier>nyp.33433062733302</dcterms:identifier>
+    <dcterms:date>1901-05</dcterms:date>
+    <dcterms:coverage>1901</dcterms:coverage>
+    <dcterms:subject>Periodicals, Technology, Magnetic Recording</dcterms:subject>
+    <dcterms:contributor>Valdemar Poulsen</dcterms:contributor>
+  </rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:art="http://simile.mit.edu/2003/10/ontologies/artstor#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:scalar="http://scalar.usc.edu/2012/01/scalar-ns#"
+  xmlns:ov="http://open.vocab.org/terms/">
+
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/ibm-305-ramac-promotional-material-ca-1956">
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Media"/>
+    <art:thumbnail rdf:resource="http://www.archive.org/download/Ibm305ramac/format=Thumbnail"/>
+    <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
+    <dcterms:created>2013-12-19T07:07:36-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:content:8453"/>
+    <scalar:version rdf:resource="http://scalar.usc.edu/maker/record/ibm-305-ramac-promotional-material-ca-1956.2"/>
+    <dcterms:hasVersion rdf:resource="http://scalar.usc.edu/maker/record/ibm-305-ramac-promotional-material-ca-1956.2"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/ibm-305-ramac-promotional-material-ca-1956.2">
+    <ov:versionnumber>2</ov:versionnumber>
+    <dcterms:title>IBM 305 RAMAC: Promotional Material (ca. 1956)</dcterms:title>
+    <dcterms:description>Promotional Video for the IBM 305 RAMAC (the first commercial computer that used a moving head hard disk drive)</dcterms:description>
+    <art:url rdf:resource="http://www.archive.org/download/Ibm305ramac/format=MPEG4"/>
+    <scalar:defaultView>plain</scalar:defaultView>
+    <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
+    <dcterms:created>2013-12-19T07:09:46-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:28484"/>
+    <dcterms:isVersionOf rdf:resource="http://scalar.usc.edu/maker/record/ibm-305-ramac-promotional-material-ca-1956"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+    <dcterms:publisher>International Business Machines Corporation</dcterms:publisher>
+    <dcterms:source>IBM care of the Internet Archive</dcterms:source>
+    <dcterms:identifier>Ibm305ramac</dcterms:identifier>
+    <dcterms:type>movies</dcterms:type>
+    <dcterms:date>2013-12-19T14:53:38Z (original publication date unknown)</dcterms:date>
+    <dcterms:coverage>1956-1965</dcterms:coverage>
+    <dcterms:subject>computing, history, technology, magnetic recording, hard drive</dcterms:subject>
+    <dcterms:contributor>International Business Machines Corporation</dcterms:contributor>
+  </rdf:Description>
+
+</rdf:RDF>

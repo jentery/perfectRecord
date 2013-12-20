@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:scalar="http://scalar.usc.edu/2012/01/scalar-ns#"
+  xmlns:ov="http://open.vocab.org/terms/"
+  xmlns:art="http://simile.mit.edu/2003/10/ontologies/artstor#">
+
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/telegraphonerelay">
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Media"/>
+    <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
+    <dcterms:created>2013-12-19T06:03:00-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:content:8450"/>
+    <scalar:version rdf:resource="http://scalar.usc.edu/maker/record/media/telegraphonerelay.2"/>
+    <dcterms:hasVersion rdf:resource="http://scalar.usc.edu/maker/record/media/telegraphonerelay.2"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/telegraphonerelay.2">
+    <ov:versionnumber>2</ov:versionnumber>
+    <dcterms:title>Relay Used to Start the Operation of the Telegraphone (May 1905)</dcterms:title>
+    <dcterms:description>Telephone Magazine (May 1905), 300</dcterms:description>
+    <art:url rdf:resource="http://scalar.usc.edu/maker/record/media/telegraphonerelay.png"/>
+    <scalar:defaultView>plain</scalar:defaultView>
+    <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
+    <dcterms:created>2013-12-19T06:06:11-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:28474"/>
+    <dcterms:isVersionOf rdf:resource="http://scalar.usc.edu/maker/record/media/telegraphonerelay"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+    <dcterms:publisher>Telephone Magazine Publishing Company, Chicago</dcterms:publisher>
+    <dcterms:source>Telephone Magazine, care of the Hathi Trust, http://catalog.hathitrust.org/Record/000504995</dcterms:source>
+    <dcterms:identifier>mdp.39015070388007 / http://babel.hathitrust.org/cgi/pt?id=mdp.39015070388007;view=1up;seq=18</dcterms:identifier>
+    <dcterms:date>1905-05</dcterms:date>
+    <dcterms:coverage>May 1905</dcterms:coverage>
+    <dcterms:subject>Periodicals, Technology, Magnetic Recording</dcterms:subject>
+    <dcterms:contributor>Fred De Land, L. L. Summers, J. C. McMynn, F. A. C. Perrine, C. E. Kammeyer</dcterms:contributor>
+  </rdf:Description>
+
+</rdf:RDF>

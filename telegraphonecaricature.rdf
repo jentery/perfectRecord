@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:scalar="http://scalar.usc.edu/2012/01/scalar-ns#"
+  xmlns:ov="http://open.vocab.org/terms/"
+  xmlns:art="http://simile.mit.edu/2003/10/ontologies/artstor#">
+
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/telegraphonecaricature">
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Media"/>
+    <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
+    <dcterms:created>2013-12-19T08:11:02-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:content:8454"/>
+    <scalar:version rdf:resource="http://scalar.usc.edu/maker/record/media/telegraphonecaricature.2"/>
+    <dcterms:hasVersion rdf:resource="http://scalar.usc.edu/maker/record/media/telegraphonecaricature.2"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/telegraphonecaricature.2">
+    <ov:versionnumber>2</ov:versionnumber>
+    <dcterms:title>Makes the Telephone Record Itself (1913)</dcterms:title>
+    <dcterms:description>From Out West 5.3 (1913), 210</dcterms:description>
+    <art:url rdf:resource="http://scalar.usc.edu/maker/record/media/telegraphonecaricature.png"/>
+    <scalar:defaultView>plain</scalar:defaultView>
+    <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
+    <dcterms:created>2013-12-19T08:14:31-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:28487"/>
+    <dcterms:isVersionOf rdf:resource="http://scalar.usc.edu/maker/record/media/telegraphonecaricature"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+    <dcterms:publisher>Los Angeles, F. A. Pattee &amp; Co.</dcterms:publisher>
+    <dcterms:source>Out west. n.s. v.5 no.3, care of Hathi Trust, http://babel.hathitrust.org/cgi/pt?id=mdp.39015070243954;view=1up;seq=78</dcterms:source>
+    <dcterms:identifier>mdp.39015070243954</dcterms:identifier>
+    <dcterms:date>1913-03</dcterms:date>
+    <dcterms:coverage>1913</dcterms:coverage>
+    <dcterms:subject>Periodicals, Technology, Magnetic Recording</dcterms:subject>
+    <dcterms:contributor>George Wharton James (editor)</dcterms:contributor>
+  </rdf:Description>
+
+</rdf:RDF>

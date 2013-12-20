@@ -1,0 +1,82 @@
+{
+  "http://scalar.usc.edu/maker/record/ibm-305-ramac-promotional-material-ca-1956" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http:\/\/scalar.usc.edu\/2012\/01\/scalar-ns#Media", "type" : "uri" }
+    ],
+    "http://simile.mit.edu/2003/10/ontologies/artstor#thumbnail" : [
+      { "value" : "http:\/\/www.archive.org\/download\/Ibm305ramac\/format=Thumbnail", "type" : "uri" }
+    ],
+    "http://xmlns.com/foaf/0.1/homepage" : [
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/users\/17", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2013-12-19T07:07:36-08:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:content:8453", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#version" : [
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/ibm-305-ramac-promotional-material-ca-1956.2", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/hasVersion" : [
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/ibm-305-ramac-promotional-material-ca-1956.2", "type" : "uri" }
+    ]
+  },
+
+  "http://scalar.usc.edu/maker/record/ibm-305-ramac-promotional-material-ca-1956.2" : {
+    "http://open.vocab.org/terms/versionnumber" : [
+      { "value" : "2", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/title" : [
+      { "value" : "IBM 305 RAMAC: Promotional Material (ca. 1956)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Promotional Video for the IBM 305 RAMAC (the first commercial computer that used a moving head hard disk drive)", "type" : "literal" }
+    ],
+    "http://simile.mit.edu/2003/10/ontologies/artstor#url" : [
+      { "value" : "http:\/\/www.archive.org\/download\/Ibm305ramac\/format=MPEG4", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#defaultView" : [
+      { "value" : "plain", "type" : "literal" }
+    ],
+    "http://xmlns.com/foaf/0.1/homepage" : [
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/users\/17", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2013-12-19T07:09:46-08:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:version:28484", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isVersionOf" : [
+      { "value" : "http:\/\/scalar.usc.edu\/maker\/record\/ibm-305-ramac-promotional-material-ca-1956", "type" : "uri" }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http:\/\/scalar.usc.edu\/2012\/01\/scalar-ns#Version", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/publisher" : [
+      { "value" : "International Business Machines Corporation", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/source" : [
+      { "value" : "IBM care of the Internet Archive", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/identifier" : [
+      { "value" : "Ibm305ramac", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/type" : [
+      { "value" : "movies", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/date" : [
+      { "value" : "2013-12-19T14:53:38Z (original publication date unknown)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/coverage" : [
+      { "value" : "1956-1965", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "computing, history, technology, magnetic recording, hard drive", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/contributor" : [
+      { "value" : "International Business Machines Corporation", "type" : "literal" }
+    ]
+  } 
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:scalar="http://scalar.usc.edu/2012/01/scalar-ns#"
+  xmlns:ov="http://open.vocab.org/terms/"
+  xmlns:art="http://simile.mit.edu/2003/10/ontologies/artstor#">
+
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/needtelegraphone">
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Media"/>
+    <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
+    <dcterms:created>2013-12-19T08:18:28-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:content:8455"/>
+    <scalar:version rdf:resource="http://scalar.usc.edu/maker/record/media/needtelegraphone.2"/>
+    <dcterms:hasVersion rdf:resource="http://scalar.usc.edu/maker/record/media/needtelegraphone.2"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://scalar.usc.edu/maker/record/media/needtelegraphone.2">
+    <ov:versionnumber>2</ov:versionnumber>
+    <dcterms:title>Then You Need a Telegraphone (1906)</dcterms:title>
+    <dcterms:description>From the Magazine of Business (July-December 1906)</dcterms:description>
+    <art:url rdf:resource="http://scalar.usc.edu/maker/record/media/needtelegraphone.png"/>
+    <scalar:defaultView>plain</scalar:defaultView>
+    <foaf:homepage rdf:resource="http://scalar.usc.edu/maker/record/users/17"/>
+    <dcterms:created>2013-12-19T08:21:05-08:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:28490"/>
+    <dcterms:isVersionOf rdf:resource="http://scalar.usc.edu/maker/record/media/needtelegraphone"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+    <dcterms:publisher>New York, A. W. Shaw Co. Division of the McGraw Hill Publishing Co.</dcterms:publisher>
+    <dcterms:source>The Magazine of business. v.10, care of Hathi Trust, http://babel.hathitrust.org/cgi/pt?id=mdp.39015010779372;view=1up;seq=724</dcterms:source>
+    <dcterms:identifier>mdp.39015010779372</dcterms:identifier>
+    <dcterms:date>1906-07</dcterms:date>
+    <dcterms:coverage>July-December 1906</dcterms:coverage>
+    <dcterms:subject>Periodicals, Technology, Magnetic Recording</dcterms:subject>
+    <dcterms:contributor>Arch Wilkinson Shaw</dcterms:contributor>
+  </rdf:Description>
+
+</rdf:RDF>
