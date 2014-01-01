@@ -1,7 +1,4 @@
-perfectRecord
-=============
-
-# Making the Perfect Record: From Inscription to Impression in Early Magnetic Recording
+# Making the Perfect Record
 
 ## Jentery Sayers, University of Victoria
 
