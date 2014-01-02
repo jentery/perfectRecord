@@ -1,0 +1,3 @@
+# Certainly Nothing Novel 
+
+For prior intersections of thread with standardization and alienated labor, see Babbage (1963, 334) and Plant (1997, 15-16) on computation and Jacquard’s loom. Of course, Marx also wrote about spinning and weaving machines, with an occasional response to Babbage. See Chapter 15, “Machinery and Modern Industry,”<i> Capital</i>&nbsp;(1976, 405-556) and “Division of Labour and Mechanical Workshop. Tool and Machinery” in <i>Collected Works</i>, Vol. 33 (Marx and Engels 1992, 387-477).&nbsp;

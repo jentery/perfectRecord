@@ -1,0 +1,3 @@
+# Magnetic Storage 
+
+For a thoroughly materialist approach to the hard drive&nbsp;and contemporary magnetic recording, see Kirschenbaum (2008). In the first chapter, Kirschenbaum claims, quite importantly, that “computer storage media also have their affordances, but as storage in general has become more capacious and less immediately tangible it is easy to overlook them. . . . Attention to the affordances of various kinds of storage media can reveal much about computing in different contexts, allowing us to reconstruct salient aspects of now-obsolete systems and the human practices that attended them” (32).

@@ -1,0 +1,3 @@
+# Incandescent Light
+
+Tim Brooks (2004, 26) writes: “After the exhibition of his first crude tinfoil apparatus in 1878-79, Thomas Edison virtually abandoned the phonograph to work on the electric light. He did not return to work on it until 1886, when the expiration of his major commitments to the electric light, and the hot breath of competition from other inventors working on sound recording, brought him back into the fray.”

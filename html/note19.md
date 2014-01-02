@@ -1,0 +1,3 @@
+# A Two-Mile Spool of Wire 
+
+Although Stearns (1906, 411) suggests “there are two miles of wire to run through” the telegraphone, his estimation might be hyperbole. Two miles, or 10,560 feet, would have meant 1,056 seconds (or 17.6 minutes). Like Clark’s “Our New Thread” cotton, the most common spools of wire were two hundred yards (or six hundred feet) in length, and generally held only a minute of audio (at the rate of ten feet per second).

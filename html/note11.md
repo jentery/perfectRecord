@@ -1,0 +1,3 @@
+# Scratchy Noise 
+
+Smith’s response to Edison’s phonograph was written in a memorandum dated September 23, 1878, roughly ten years prior to the publication of “Some Possible Forms of Phonograph” in <i>Electrical World</i>. The memorandum is reproduced in Clark’s “The Magnetic Recording of Sound” (1999c, 8). Why Smith took ten years to publish his hypotheses is difficult to determine. One reason may be that by 1888 he realized he had neither the time nor the resources to dedicate to magnetic recording.

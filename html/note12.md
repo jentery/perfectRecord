@@ -1,0 +1,3 @@
+# Offended Smith's Ears 
+
+Smith was not the only one with a critique. For instance, see the <i>Telegraphic Journal</i> and <i>Electrical Review</i> in 1879: “Edison’s phonograph, as now constructed, is in several important respects defective. For example, the time of recording the sound on the apparatus is proportioned to the size of the barrel. The necessity of wrapping the barrel with foil does not permit of the conservation of speech, and by reason of its flimsy character only allows of several repetitions” (“A New Phonograph”).

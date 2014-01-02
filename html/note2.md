@@ -1,0 +1,3 @@
+# Metaphysics of Presence 
+
+Jacques Derrida (1976, 71) describes and then proceeds to thoroughly critique the theological fetish of authenticity and presence. He writes: “All dualisms, all theories of the immortality of the soul or of the spirit, as well as monisms, spiritualist or materialist, dialectical or vulgar, are the unique theme of a metaphysics whose entire history was compelled to strive toward the reduction of the trace. . . . Only infinite being can reduce the difference in presence. . . . The logos as the sublimation of the trace is theological.”
