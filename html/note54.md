@@ -1,0 +1,3 @@
+# Listen to Recordings 
+
+Only a few sentences later, Dunlap describes the telegraphone to the group: “A machine for registering telephone conversations, dictation, anything of the sort you wish. It was invented by Valdemar Poulsen, the Danish Edison. This is one of his new wire machines. The record is made by a new process, localized charges of magnetism on this wire. It is as permanent as the wire itself. There is only one thing that can destroy them—rubbing over the wire with this magnet. Listen” (1912, 52).

@@ -1,0 +1,3 @@
+# Such as Thomas Edison 
+
+Reeve (1913, 91) writes: “I recall once asking Mr. Edison whether he ever read detective stories. With that magic smile that flits over his face when a question interests him, the great inventor replied, ‘That is about all the fiction I do read.’ Then he went on, a moment later, glancing about at the appalling mass of scientific books and periodicals in his library, ‘I don’t think I ever felt so badly over the death of anyone not connected with me as I did when Gaboriau died.’” Émile Gaboriau was one of the earliest writers of modern detective fiction.

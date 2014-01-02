@@ -1,0 +1,3 @@
+# Prose Bordering on Science Fiction 
+
+In his analysis of the medial ideology of electronic text, Kirschenbaum (2008, 38) observes the following: “Industry leaders may have grasped the appeal of this ideology even earlier than fiction writers or academicians. In 1982, four Bay-area entrepreneurs cofounded a new company devoted to network enterprise computing. They called it Sun.” In the case of early magnetic recording, a similar dynamic emerges, with people in industry first deploying a medial ideology of magnetic audio. Importantly, however, these entrepreneurs used techniques from fiction in their own technical writing and speeches.

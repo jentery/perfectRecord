@@ -1,0 +1,3 @@
+# The Moral Good 
+
+On the topic of moral good, Reeve (1913, 93) writes: “More and more the discoveries of the scientists, romantic and thrilling in themselves, are being applied by the forces of law and order in the running down of the criminal. Fiction of this sort is a positive source of good. In the end it will make detectives more and more efficient; will tend to discourage criminals by the sheer weight of unescapable [<i>sic</i>] fact. In Europe there has actually grown up a class of scientific professors, a dozen of whom could be named, whose exploits read like fiction. The spread of such knowledge cannot do harm—unless indeed the spread of knowledge itself be harmful.”

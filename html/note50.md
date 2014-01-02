@@ -1,0 +1,3 @@
+# An Explanation 
+
+Quite humorously, in <i>The Exploits of Elaine</i>, Reeve’s characters make several references to the tremendous weight of the device: “We followed him, lugging the telegraphone” (1915, 126), “as I gave a groan of relief, for the telegraphone was getting like lead” (126), and “Kennedy . . . recovered the telegraphone. Together we carried it to the laboratory” (129). Magnetic audio may have been affiliated with noise-free, seemingly immaterial sound; however, the telegraphone was large and clunky at best, raising questions about how easy it was to actually transport or hide.

@@ -1,0 +1,3 @@
+# The Human Stenographer 
+
+In an August 1913 issue of the <i>Independent</i>, the limits of human stenographers working in similar situations are actually highlighted: “The advantages of [the telegraphone] for international conventions is [<i>sic</i>] obvious. It is very hard to get stenographers competent to take down the discussions in four or more languages. The Copenhagen congress was in session forty hours altogether and occupied two adjoining rooms, but all of the papers and discussions were duly recorded on the 250 kilometers of piano wire” (“The Telegraphone”).
